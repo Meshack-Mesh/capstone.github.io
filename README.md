@@ -1,13 +1,12 @@
 e# Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
-> http://localhost:63342/Mesh/index.html?_ijt=prm88ekjn7eja7cegbfnhbmfmq&_ij_
-
+> https://meshack-mesh.github.io/capstone.github.io/
 
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="http://localhost:63342/Mesh/index.html?_ijt=jr39e9bei2vfvi1qfkl2gr3bu5&_ij_" target="_blank"><img src="examples/preview.png">
+    <a href="https://meshack-mesh.github.io/capstone.github.io/" target="_blank"><img src="examples/preview.png">
   </a>
   </kbd>
 </p>
@@ -22,7 +21,7 @@ e# Personal Portfolio ⚡️
 
 ## Installation & Deployment 📦
 - Clone the repository and modify the content of <b>index.html</b> according to your requirement.
-- Add or remove images from `varadbhogayata.github.io/assets/img/` directory as per your requirement.
+- Add or remove images from `capstone.github.io/assets/img/` directory as per your requirement.
 - I highly recommend to use [Github Pages](https://create-react-app.dev/docs/deployment/#github-pages) to deploy the website the EASIEST WAY.
 - To deploy your website, first you need to create github repository with name `<your-github-username>.github.io`. Please don't give any other name.
 - Push the generated code to the `master` branch of this repository.
@@ -37,7 +36,7 @@ e# Personal Portfolio ⚡️
 ✔️ Contact Info\
 ✔️ Resume
 
-To view a live example, **[click here](https://varadbhogayata.github.io/)**
+To view a live example, **[click here](https://meshack-mesh.github.io/capstone.github.io/)**
 
 ## Tools Used 🛠️
 * [<b>GitHub Pages</b>](https://create-react-app.dev/docs/deployment/#github-pages) - To host my static website (HTML, CSS, JS).
