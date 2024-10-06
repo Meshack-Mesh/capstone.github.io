@@ -6,7 +6,7 @@ e# Personal Portfolio ⚡️
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://meshack-mesh.github.io/capstone.github.io/" target="_blank"><img src="examples/preview.png">
+    <a href="https://meshack-mesh.github.io/capstone.github.io/" target="_blank"><img src="preview.png">
   </a>
   </kbd>
 </p>
@@ -60,6 +60,3 @@ To view a live example, **[click here](https://meshack-mesh.github.io/capstone.g
 #### Step 3
 
 - 🔃 Create a new pull request.
-
-## License 📄
-This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
